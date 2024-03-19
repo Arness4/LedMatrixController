@@ -1,0 +1,5 @@
+Controle d'une matrice led 8x8 avec Qt6 et arduino
+dépendances:
+    Pyside6,
+    une carte arduino
+    une matrice led 8x8 (MAX7219)

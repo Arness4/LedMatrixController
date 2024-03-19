@@ -1,0 +1,4 @@
+*.pyproject
+*.user
+/__pycache__/
+*.hex
